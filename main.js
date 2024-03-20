@@ -1,7 +1,5 @@
-const button = document.querySelector(".button");
-const removeCircle = (document.querySelector = () => {
-  const redCirle = document.querySelector(".red");
-  redCircle.parentNode.removeChild(redCircle);
-};
+const button = document.querySelector("#button");
+console.log("workíng", button);
+const wrapper = document.createElement("div");
 
-document.querySelector('#wrapper input').setAttribute('id', 'inputEl');
+console.log("div working", wrapper);
